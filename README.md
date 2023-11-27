@@ -1,2 +1,2 @@
 # eiot-hw
-Shemes, drawings &amp; other documentation
+Schemes, drawings &amp; other documentation
